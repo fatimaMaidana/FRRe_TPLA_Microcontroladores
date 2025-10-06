@@ -101,7 +101,8 @@ El microcontrolador enciende los segmentos necesarios para **mostrar el estado a
 
 ## 🧠 Diagrama del circuito
 
-![Diagrama del circuito](16800bca-0ffb-4c73-b949-e0badb663de6.png)
+<img width="2925" height="2055" alt="Circuito-layout" src="https://github.com/user-attachments/assets/dad2e968-b511-4a32-bfe0-5bd8be121bc8" />
+![Diagrama del circuito]
 
 ---
 
