@@ -12,7 +12,7 @@ import supervisor
 # Configuracion de RED 
 SSID = "wfrre-Docentes" 
 PASSWORD = "20$tscFrre.24" 
-BROKER = "10.13.100.154" 
+BROKER = "10.13.100.184" 
 NOMBRE_EQUIPO = "benders" 
 DESCOVERY_TOPIC = "descubrir" 
 TOPIC = f"sensores/{NOMBRE_EQUIPO}" 
