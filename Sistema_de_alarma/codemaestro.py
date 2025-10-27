@@ -198,7 +198,7 @@ while True:
                     estado = 3
                     mostrar_numero(3)
                     ultima_alarma = time.localtime()
-                    print(" Estado 3: ¡Alarma de robo!")
+                    print(" Estado 3: ¡Alarma! se estan robando los chipacitos")
                     for _ in range(3):
                         blink_led(3)
                         beep(3)
