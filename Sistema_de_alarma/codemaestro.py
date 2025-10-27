@@ -49,7 +49,7 @@ PUB_INTERVAL = 5
 def publish(): 
     global last_pub 
     now = time.monotonic() 
-    print(sensor_luz.value) 
+    #print(sensor_luz.value) 
     if now - last_pub >= PUB_INTERVAL: 
         try: 
             luz_topic = f"{TOPIC}/luz" 
